@@ -8,14 +8,14 @@ public class HelloWorld {
     int sample_number; //As above
     sample_number = 8; //Variable inicialisation
     //Types of variables:
-    boolean boolean_variable; //It may contains true or false as value
-    byte byte_variable; //It may contains intigers between -128 to 127 as value
-    short short_variable; //It may contains intigers between -32768 to 32767 as value
-    int int_variable; //It may contains intigers between -2147483648 to 2147483647 as value
-    long long_variable; //It may contains intigers between -9223372036854775808 to 9223372036854775807 as value
-    float float_variable; //It may contains floating numbers between -3.4028234663852886E38 to 3.4028234663852886E38
-    double double_variable; //It may contains floating numbers between -1.7976931348623157E308 to 1.7976931348623157E308
-    char char_variable; //It may contains amount of characters between 0 to 65556;
+    boolean boolean_variable; //It can contain true or false as value
+    byte byte_variable; //It can contain integers between -128 to 127 as value
+    short short_variable; //It can contain integers between -32768 to 32767 as value
+    int int_variable; //It can contain intigers between -2147483648 to 2147483647 as value
+    long long_variable; //It can contain intigers between -9223372036854775808 to 9223372036854775807 as value
+    float float_variable; //It can contain floating numbers between -3.4028234663852886E38 to 3.4028234663852886E38
+    double double_variable; //It can contain floating numbers between -1.7976931348623157E308 to 1.7976931348623157E308
+    char char_variable; //It can contain amount of characters between 0 to 65556;
 
     /*How to create the names of the variables:
     It may contain only letters, numbers and mentioned signs: $ or  _
